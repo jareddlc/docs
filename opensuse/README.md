@@ -20,6 +20,8 @@ WARNING:
 -	[`42.3`, `latest`, `leap` (*x86_64//Dockerfile*)](https://github.com/openSUSE/docker-containers-build/blob/484dbcd4d2c4157ce26e2a6b0ae99839ee161edd/x86_64//Dockerfile)
 -	[`tumbleweed` (*x86_64//Dockerfile*)](https://github.com/openSUSE/docker-containers-build/blob/30b44ff345bca8ec322495adfd967998c049fd39/x86_64//Dockerfile)
 
+[![Build Status](https://doi-janky.infosiftr.net/job/multiarch/job/amd64/job/opensuse/badge/icon) (`amd64/opensuse` build job)](https://doi-janky.infosiftr.net/job/multiarch/job/amd64/job/opensuse/)
+
 # Quick reference
 
 -	**Where to get help**:  
